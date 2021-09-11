@@ -11,3 +11,5 @@
 1.Bookers1を完成させよう(デバッグ形式) : bookers1-debug-master
 
 2.Bookers2を完成させよう(デバッグ形式) : bookers2-debug
+
+3.Bookers2へ「いいね/コメント機能」を実装 : bookers2
